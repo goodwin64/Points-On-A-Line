@@ -1,6 +1,6 @@
 ## Points on-a Line
 
-### Desctiption
+### Description
 Given some points (cartesian coordinates), return true if all of them lie on a line.
 Treat both an empty set and a single point as a line.
 
