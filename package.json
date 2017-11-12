@@ -1,0 +1,21 @@
+{
+  "name": "points-on-a-line",
+  "version": "1.0.0",
+  "description": "points-on-a-line task for code battle",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyKovalchuk/Points-On-A-Line"
+  },
+  "author": "SergeyKovalchuk",
+  "bugs": {
+    "url": "https://github.com/SergeyKovalchuk/Points-On-A-Line/issues"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "homepage": "https://github.com/SergeyKovalchuk/Points-On-A-Line#readme"
+}
