@@ -1,4 +1,4 @@
-## Points on-a Line
+## Points on a Line
 
 ### Description
 Given some points (cartesian coordinates), return true if all of them lie on a line.
