@@ -15,7 +15,7 @@ it('the second point is not on line', () => {
 });
 
 it('all points are on line', () => {
-  assert.equal(isPointsOnLine(points3), false);
+  assert.equal(isPointsOnLine(points3), true);
 });
 
 it('both of two points already lie on a line', () => {
