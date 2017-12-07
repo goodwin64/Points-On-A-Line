@@ -6,7 +6,7 @@ const points2 = [[1,2], [-3, -14], [22, 9]];
 const points3 = [[1,1], [2, 1], [3, 1], [10000000, 1]];
 const points4 = [[1,2], [-3, -14]];
 
-it('three poistive points on a line', () => {
+it('three positive points on a line', () => {
   assert.equal(isPointsOnLine(points1), true);
 });
 
